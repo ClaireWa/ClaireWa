@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ClaireWa
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+
 
 <!---
 ClaireWa/ClaireWa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
