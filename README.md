@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Claire
 - 👀 I’m interested in QA testing or software developpement.
-- 🌱 I have a CFG python certificate and I am still learning coding I am working on a new project :)
+- 🌱 I have a CFG python certificate and I am still learning coding
+-  I am working on a new project :)
 
 
 <!---
