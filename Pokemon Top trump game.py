@@ -10,6 +10,7 @@ import random
 import requests
 
 # This program uses randit() to returns the stats from the URL(API).
+
 def random_pokemon():
      pokemon_number = random.randint(1, 151)
      url = 'https://pokeapi.co/api/v2/pokemon/{}/'.format(pokemon_number)
@@ -66,9 +67,7 @@ else:
     print('Draw!')
 
 
-
 #ask the player if they want to play antoher round with import sys function.
-
 
 import sys
 
@@ -81,7 +80,7 @@ if another_round.lower() == "no":
 stat = ['id', 'height', 'weight', 'base_experience']
 stat_choice = random.choice(stat)
 print('Your opponent chose {} as a stat.'.format(stat_choice))
-ase_
+
 
 def random_pokemon():
      pokemon_number = random.randint(1, 151)
