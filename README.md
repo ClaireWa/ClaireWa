@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ClaireWa
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning coding
+- 👋 Hi, I’m Claire
+- 👀 I’m interested in QA testing or software developpement.
+- 🌱 I have a CFG python certificate and I am still learning coding I am working on a new project :)
 
 
 <!---
