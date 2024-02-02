@@ -1,3 +1,4 @@
+# This is a project that I worked for my bootcamp coding, I have created this Top trump pokemon card game and presented it to the class.
 
 
 print('Welcome to Pokemon Top Trump. The rules are simple. The computer '
